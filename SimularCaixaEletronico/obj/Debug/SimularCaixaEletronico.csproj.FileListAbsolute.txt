@@ -1,0 +1,6 @@
+C:\Projetos\SimuladorCaixaEletronico\SimularCaixaEletronico\SimularCaixaEletronico\bin\Debug\SimularCaixaEletronico.exe.config
+C:\Projetos\SimuladorCaixaEletronico\SimularCaixaEletronico\SimularCaixaEletronico\bin\Debug\SimularCaixaEletronico.exe
+C:\Projetos\SimuladorCaixaEletronico\SimularCaixaEletronico\SimularCaixaEletronico\bin\Debug\SimularCaixaEletronico.pdb
+C:\Projetos\SimuladorCaixaEletronico\SimularCaixaEletronico\SimularCaixaEletronico\obj\Debug\SimularCaixaEletronico.csprojResolveAssemblyReference.cache
+C:\Projetos\SimuladorCaixaEletronico\SimularCaixaEletronico\SimularCaixaEletronico\obj\Debug\SimularCaixaEletronico.exe
+C:\Projetos\SimuladorCaixaEletronico\SimularCaixaEletronico\SimularCaixaEletronico\obj\Debug\SimularCaixaEletronico.pdb
