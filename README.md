@@ -24,7 +24,7 @@ Desenvolva um algoritmo que simule a entrega de notas quando um cliente efetuar 
 
 * Valor do Saque: R$95,00 – Resultado Esperado: Mensagem de alerta. “Não há notas disponíveis para realizar este saque.”
 
-## Instruções para rodar os testes
+## Instruções para rodar a aplicação
 
 O projeto foi criado no visual studio 2017, foi criado um projeto do tipo console application.
 
